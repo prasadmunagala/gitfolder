@@ -1,1 +1,7 @@
 alter user 'root'@localhost' identified by 'pass123';
+
+
+alter user 'root'@localhost' identified by 'pass123';
+
+
+alter user 'root'@localhost' identified by 'pass123';
